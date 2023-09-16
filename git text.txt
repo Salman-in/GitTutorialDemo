@@ -1,3 +1,4 @@
 This is version 1 of my project
 This text is changed
 This is changed once again 
+This one even changed after staging(or after using cmd git add --a)
